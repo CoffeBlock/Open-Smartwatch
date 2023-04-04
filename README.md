@@ -1,8 +1,7 @@
 # Open-Smartwatch
-Modify Some part in Open-Smartwatch
 
-Update 0.0.0
--------
-Planning on making a type-c port instade of micor usb
+this is the official version of ows(open smartwatch)
 
-Maybe do a water pref case(under water 10meter for 1hr)
+all this is just a copy of the github page
+
+[Link to official github](https://github.com/Open-Smartwatch)
